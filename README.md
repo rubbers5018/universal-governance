@@ -81,6 +81,16 @@ python examples/01_verify_registration.py
 
 ---
 
+## 🌍 External Verification
+
+**Status**: ✅ **VERIFIED** (WSL2 Ubuntu 22.04)
+**Command**: `python examples/01_verify_registration.py`
+**Result**: ✅ **VALID SIGNATURE CONFIRMED**
+
+This repository has been independently verified on a clean Linux environment, confirming that anyone can clone, install, and cryptographically verify The Nurse's Oath without institutional dependencies.
+
+---
+
 ## 📖 Documentation
 
 | Document | Description |
