@@ -1,0 +1,9 @@
+# Ensure consistent line endings for signature integrity
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+
+# Mark registration files as important
+registrations/*.json binary
